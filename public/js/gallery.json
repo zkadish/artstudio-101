@@ -1,8 +1,56 @@
 {
   "items": [
     {
-      "title": "Tse, Patina Gardens, acrylic on paper w/ gold foil, 30x44 inches",
-      "src": "img/gallery/tse-1.jpg"
+      "title": "Kuttner, Solar, mixed media on canvas, 44\"h x 56\"w",
+      "src": "img/gallery/PK_Solar.png"
+    },
+    {
+      "title": "Kuttner, This Day Haas Arrived, mixed media on canvas, 60\"h x 50\"w",
+      "src": "img/gallery/PK_The_Day_Has_Arrived.png"
+    },
+    {
+      "title": "Kuttner, Wedding Day 1, mixed media on canvas, 48\"sq",
+      "src": "img/gallery/PK_Wedding_Day_1.png"
+    },
+    {
+      "title": "Kuttner, Stack #15, mixed media on canvas, 64\"sq",
+      "src": "img/gallery/PK_Stack.png"
+    },
+    {
+      "title": "Kuttner, Perhaps Today 2, mixed media on canvas, 64\"h x 48\"w",
+      "src": "img/gallery/PK_Perhaps_Today.png"
+    },
+    {
+      "title": "Kuttner, If the Shoe Fits 3, mixed media on canvas, 38\"h x 32\"w",
+      "src": "img/gallery/PK_If_the_Shoe_Fits.png"
+    },
+    {
+      "title": "Kuttner, Still Teal, mixed media on canvas, 48\"sq",
+      "src": "img/gallery/PK_Still_Teal.png"
+    },
+    {
+      "title": "Kuttner, Still 4, mixed media on canvas, 38\"h x 32\"w",
+      "src": "img/gallery/PK_Still.png"
+    },
+    {
+      "title": "Kuttner, Still Golden 2, mixed media on canvas, 48\"sq",
+      "src": "img/gallery/PK_Still_Golden.png"
+    },
+    {
+      "title": "Kuttner, Soothing Morning, mixed media on canvas, 38\"h x 32\"w",
+      "src": "img/gallery/PK_Soothing_Morning.png"
+    },
+    {
+      "title": "Alan, Gilded forest 1, board with resin, 24\"sq",
+      "src": "img/gallery/CA_Gilded_Forest_1.jpg"
+    },
+    {
+      "title": "Alan, Gilded forest 2, board with resin, 24\"sq",
+      "src": "img/gallery/CA_Gilded_Forest_2.jpg"
+    },
+    {
+      "title": "Alan, Gilded forest 3, board with resin, 24\"sq",
+      "src": "img/gallery/CA_Gilded_Forest_3.jpg"
     },
     {
       "title": "Firehammer, Gaberiela, encaustic on wood boxes, 6sq feet",
@@ -11,14 +59,6 @@
     {
       "title": "Kump, Danielle, Succulents Series, originals on paper, 7x5 feet",
       "src": "img/gallery/kump-danielle.png"
-    },
-    {
-      "title": "Erickson, Dianne, Girl with Checkered Past, encaustic on wood box, 30sq inches",
-      "src": "img/gallery/erickson-dianne-1.jpg"
-    },
-    {
-      "title": "Erickson, Dianne, Line Work Series, painting on wood box, 10x8 feet",
-      "src": "img/gallery/erickson-dianne-2.png"
     },
     {
       "title": "Stone, Mia, Persuasion, mixed media on gator, 18sq inches",
@@ -43,10 +83,6 @@
     {
       "title": "Childs, Daryl, Sonoita II, acrylic on canvas, 60sq inches",
       "src":  "img/gallery/childs-daryl-4.jpg"
-    },
-    {
-      "title": "Firehammer, Gaberiela, Resonance, encaustic on walnut and birch panel, 36x48 inches",
-      "src": "img/gallery/firehammer-gabriela-2.jpg"
     },
     {
       "title": "Pierme, Pascal, attitude 2/3, mixed media, 16sq inches",
